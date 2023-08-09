@@ -1,0 +1,35 @@
+Process of creating repository and branches in Github
+Make folder on DESKTOP for example GIT LEARN
+Go to VS and open new from folder and select "GIT LEARN" folder
+Add new file under "GIT LEARN" for example "my_first_file.txt
+Open terminal from Menu Bar 
+Type git init
+Then add file :git add my_first_file
+Next check status : git status
+Next we need commit : git commit -m "adding my new file to repository"   - so I know for future what was for 
+
+Create repository online Github 
+Next u want to push but u need to connect to online repository . 
+In VS git remote add origin https://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@github.com/Syberia0/day_2.git
+
+Next u need to push the files to remote repository: git push -u origin master
+
+As example to PULL we are going create file in remote repository by adding README file 
+Press Green add README next press green Commit changes and add extended description (all online)
+
+In VS type : git pull  -so you can add new file from remote repository
+
+
+
+
+
+
+
+
+
+
+Branches
+
+
+
+
